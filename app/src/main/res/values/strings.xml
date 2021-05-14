@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CloseActivitiesWithBroadcast</string>
+    <string name="authorization">Authorization</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="enter">enter</string>
+    <string name="first_activity">First activity</string>
+    <string name="second_activity">Second activity</string>
+    <string name="third_activity">Third activity</string>
+</resources>
